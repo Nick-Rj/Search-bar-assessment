@@ -1,0 +1,17 @@
+.rootContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%;
+}
+
+.header {
+  font-size: 36px;
+}
+
+.header span {
+  color: #0700b8;
+  padding: 1rem;
+  font-size: 48px;
+}
